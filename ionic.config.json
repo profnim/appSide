@@ -1,0 +1,7 @@
+{
+  "name": "appSide",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
